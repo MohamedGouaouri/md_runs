@@ -1,0 +1,4 @@
+nb_particles,Temps seq (s),Temps parallel (s), acceleration
+200,1.228377,1.301
+500,10.546010,6.507131,6.507131
+1000,41.422685,27.171599,1.52
